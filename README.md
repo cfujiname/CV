@@ -1,4 +1,4 @@
-## Your Name
+## Cristina Yuri Fujiname
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -10,6 +10,16 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -49,11 +59,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Le Cordon Bleu London - March 2012 to December 2012
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Diploma de Patisserie
+- Learning classic french pastry from scratch, having no previous knowledge
+
+#### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
+
+- International Businesses
+- Moving from Brazil to Germany to finish my studies. 
 
 #### Any other qualifications
 
