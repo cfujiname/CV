@@ -4,7 +4,7 @@ Hello everyone!
 
 My name is Cristina and I am a Full Stack Developer looking for a Software Dev position. 
 
-Previously I as Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized team and managing the supply-chain system to deliver products according to increasing demand in quantities and quality - including Royal Weddings in the Middle East.
+Previously, I was the Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized teams and managing the supply-chain system to deliver products according to increasing demand in quantities and quality - including Royal Weddings in the Middle East.
 
 A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. What really excites me about tech is the possibility to provide useful software to alleviate burden in any form - read: improve life quality in a general manner.
 
