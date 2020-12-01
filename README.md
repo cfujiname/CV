@@ -21,59 +21,75 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 Cutter and Squidge - London
 January 2020 - May 2020 
 
-• Training of colleagues and team members regarding pastry techniques, finishing products and health and safety procedures
+• Training of team members
+
 • Responsible for the general management of the kitchen, health and safety procedures and documentation, costing and budgeting
+
 • Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products
-• Using Shopify, Deputy, Simple Order and Excel as main technologies
+
+• Use of Shopify, Deputy, Simple Order and Excel as main technologies
 
 ### Head Chef / Production Manager
 Rosalind Miller Cakes - London
 October 2018 - September 2019 
 
-• Training and coordinating team colleagues regarding cake decoration and pastry techniques
-• Planning and supervising the production of cakes, dessert tables and small items for events in England and abroad (Qatar, UAE) for up to 1000 guests
+• Training team colleagues
+
+• Planning and supervising the production for events in England and abroad (Qatar, UAE) for up to 1000 guests
+
 • Chef Tutor for the School for specific classes
+
 • Key role in the development of new flavours and designs according to budget and optimising processes to diminish costs
-• Using Shopify, Charlie HR and Excel as main technologies
+
+• Use of Shopify, Charlie HR and Excel as main technologies
 
 ### Teaching Pastry Chef / Chef Consultant
 London
 November 2017 - October 2018 
 
 • Teaching Specialist for different schools
+
 • Pastry Consultant for business start ups, developing recipes and methods for large scale production
-• Development of own concept brand of vegan and clean chocolates (The FAVA Project)
-• Using Numbers, Pages, iCloud as main technologies
+
+• Use of Numbers, Pages, iCloud as main technologies
 
 ### 1st Kitchen Supervisor (Sous Chef)
 Peggy Porschen Cakes - London
 May 2016 - October 2017  
 
-• Supervising and teaching team colleagues regarding cake decoration and pastry techniques
+• Supervising and teaching team colleagues 
+
 • Acting as a Chef Tutor for the Academy upon request
+
 • Responsible for the health and safety documentation, awarding the business a Food Hygiene Rating of 5
-• Using Deputy, Excel and Google Docs as main technologies
+
+• Use of Deputy, Excel and Google Docs as main technologies
 
 
 ### Chef de Pâtisserie
 East Hotel - Hamburg - Germany
 August 2014 - January 2016  
 
-• Supervising and schooling team colleagues regarding classic pastry techniques
+• Supervising and schooling team colleagues
+
 • Planning of the new production Kitchen
+
 • Responsible for creating new dessert menus
 
 ### Sous Chef - Catering
 Hacienda de Samotracia - Mexico
 June 2013 - May 2014 
+
 • Training and managing the team as well as oordination of banqueting for up to 1200 guests
+
 • Creation of stock and costs database in Excel
 
 ### Content Manager
 MidiaMind GmbH - Steinfurt - Germany
 April 2008 - May 2011 
 
-• Creating and managing the websites from the different companies using SEO-Strategies, Google Analytics, Adwords
+• Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords
+
 • Training interns into SEO
 
 ## Skills
