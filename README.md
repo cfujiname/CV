@@ -11,8 +11,8 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 # Skills
 
 
-## Tech Skills
-## Soft Skills
+## Tech Skills (tech stack, testing libraries, frontend, backend)
+## Soft Skills 
 
 #### This Skill
 
@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-# Projects
+# Projects (include other ptojects as well)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -119,4 +119,10 @@ I speak fluently English, Portuguese, Spanish and German. French and Japanese ne
 
 # Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Music - mostly synth/art/dream/indie pop and indie rock, classical baroque<br>
+Sport - weight lifting and cycling<br>
+Food - food 🤤 Cooking with and for people<br>
+Book - philosophy, anthropology, sociology<br>
+DIY - building anything that can simplify day-to-day life
+
+
