@@ -40,13 +40,8 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 | ---------------------------- | ----------------- | ----------------- |
 | BrewKanoo          | Final Group Project - helping first timers brew their own beer, based on React as a Single-Page app. Learning a new tools and language. | React, React Testing library, ReactDOM, JavaScript, Bootstrap, PostgreSQL, Heroku, TravisCI, HTML/CSS |
 | Robot Lizard                | Facebook Clone - Group Project to bring Rails into our lives     | Ruby, Rails, Rspec, PostgreSQL, Bootstrap, HTML/CSS, Devise, Heroku, Google Cloud              |
-| Bank Tech Test          | Individual project -  | Ruby, Rspec |
-| MakersBnB                | Airbnb Clone      | Ruby, Rspec, PostgreSQL, Bootstrap              |
-
-
-
-
-
+| Bank Tech Test          | Individual project aiming to analise coding process | Ruby, Rspec |
+| MakersBnB                | Airbnb Clone - First Group Project aiming to understand how to team work is done in the Dev world, with standups and retros, team principles and code reviews in a daily basis    | Ruby, Rspec, PostgreSQL, Bootstrap, HTML/CSS              |
 
 
 # Experience
@@ -106,7 +101,7 @@ April 2008 - May 2011<br>
 
 - OOP, TDD/BDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, jQuery, React
+- Ruby, Rails, JavaScript, jQuery, React, SQL
 - RSpec, Jasmine, ReactDom, React Testing Library
 
 #### Le Cordon Bleu London - March 2012 to December 2012
