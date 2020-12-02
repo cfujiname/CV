@@ -2,7 +2,7 @@
 
 Hello everyone! 
 
-My name is Cristina and I am a **Full Stack Developer** looking for a Software Dev position. 
+My name is Cristina and I am a **Full Stack Developer** looking for a Junior Software Developer position. 
 
 Previously, I was Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized teams and managing the supply-chain system to deliver products according to increasing demand in quantities and quality - including Royal Weddings in the Middle East.
 
