@@ -11,13 +11,11 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 # Skills
 ## Tech Skills 
 ```
-let cristina = {
-    languages: ["Javascript", "Ruby", "SQL", "HTML", "CSS", "Markdown],
-    technologies: [ "React", "Rails", "Sinatra", "jQuery", "Node", "Heroku", "Travis CI"], 
-    databases: ["PostgreSQL", "AWS"]
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-};
+Languages: Javascript, Ruby, SQL, HTML, CSS, Markdown
+Technologies: React, Rails, Sinatra, jQuery, Node.js, Heroku, Travis CI, PostgreSQL, Bootstrap
+Architecture: Progressive web applications, Single page applications
+Concepts: OOP, TDD/BDD, DDD, Agile/XP, MVC patterns, CRC Diagrams, Pair Programming, RESTful APIs
+Tools: AWS, VSCode, RubyMine, TablePlus
 ```
 
 ## Soft Skills 
