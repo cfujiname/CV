@@ -14,24 +14,27 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 ## Tech Skills (tech stack, testing libraries, frontend, backend)
 ## Soft Skills 
 
-#### This Skill
+#### Team Work and Communication Skills
 
-- Experience
-- Achievements
-- Evidence
+- Leading teams in most of my jobs, delegating tasks according to skills and giving the team the opportunity to grow professionally
+- Giving and receiving feedback, acting as a collaborator rather than someone at a higher hierarchical level 
 
-#### Another Skill
+#### Adaptability
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Having moved to different countries because of my previous job positions, I was able to adapt quickly to new cultures and professional environment
+- My growth mindset and progressive learning attitude helped me adjust and become more resilient to challenges
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Problem-solving
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- What to do when I face a big challenge in my life or work? I tend to map the triggers of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.
+- I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare, pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My thinking process would be backwards, seeing what I needed to deliver in which time frame, and structuring the production accordingly
 
-# Projects (include other ptojects as well)
+#### Language fluency
+
+- I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
+
+
+# Projects (include other projects as well)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -46,15 +49,15 @@ Consider skills relevent to software development. Then consider your best skills
 ### Head of Production<br>
 Cutter and Squidge - London<br>
 January 2020 - May 2020<br>
-• Training team members<br>
-• General management of the kitchen, health and safety procedures and documentation, costing and budgeting<br>
+• Training the team<br>
+• General management of the kitchen, health and safety procedures/documentation, costing and budgeting<br>
 • Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products<br>
 • Use of Shopify, Deputy, Simple Order and Excel as main technologies
 
 ### Head Chef / Production Manager<br>
 Rosalind Miller Cakes - London<br>
 October 2018 - September 2019<br>
-• Training team colleagues, planning and supervising production for events in England and abroad (Qatar, UAE) for up to 1000 guests<br>
+• Training the team, planning and supervising production for events in England and abroad (Qatar, UAE) for up to 1000 guests<br>
 • Chef Tutor for the School for specific classes<br>
 • Key role in the development of new flavours and designs according to budget and optimising processes to diminish costs<br>
 • Use of Shopify, Charlie HR and Excel as main technologies
@@ -69,8 +72,7 @@ November 2017 - October 2018<br>
 ### 1st Kitchen Supervisor (Sous Chef)<br>
 Peggy Porschen Cakes - London<br>
 May 2016 - October 2017<br>
-• Supervising and teaching team colleagues <br>
-• Chef Tutor for the Academy upon request<br>
+• Supervising and teaching team colleagues and Chef Tutor for the Academy upon request<br>
 • Health and safety documentation, awarding the business a Food Hygiene Rating of 5<br>
 • Use of Deputy, Excel and Google Docs as main technologies
 
@@ -93,7 +95,6 @@ April 2008 - May 2011<br>
 • Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords<br>
 • Training interns regarding SEO
 
-
 # Education
 
 #### Makers Academy (August 2020 to November 2020)
@@ -112,10 +113,6 @@ April 2008 - May 2011<br>
 
 - International Businesses
 - Moving from Brazil to Germany to finish my studies. 
-
-# Language fluency
-
-I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
 
 # Hobbies
 
