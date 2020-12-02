@@ -43,52 +43,52 @@ Consider skills relevent to software development. Then consider your best skills
 
 # Experience
 
-#### Head of Production
-Cutter and Squidge - London
+### Head of Production<br>
+Cutter and Squidge - London<br>
 January 2020 - May 2020<br>
-• Training of team members<br>
+• Training team members<br>
 • General management of the kitchen, health and safety procedures and documentation, costing and budgeting<br>
 • Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products<br>
 • Use of Shopify, Deputy, Simple Order and Excel as main technologies
 
-#### Head Chef / Production Manager
-Rosalind Miller Cakes - London
+### Head Chef / Production Manager<br>
+Rosalind Miller Cakes - London<br>
 October 2018 - September 2019<br>
 • Training team colleagues, planning and supervising production for events in England and abroad (Qatar, UAE) for up to 1000 guests<br>
 • Chef Tutor for the School for specific classes<br>
 • Key role in the development of new flavours and designs according to budget and optimising processes to diminish costs<br>
 • Use of Shopify, Charlie HR and Excel as main technologies
 
-#### Teaching Pastry Chef / Chef Consultant
-London
+### Teaching Pastry Chef / Chef Consultant<br>
+London<br>
 November 2017 - October 2018<br>
 • Teaching Specialist for different schools<br>
 • Pastry Consultant for business start ups, developing recipes and methods for large scale production<br>
 • Use of Numbers, Pages, iCloud as main technologies<br>
 
-#### 1st Kitchen Supervisor (Sous Chef)
-Peggy Porschen Cakes - London
+### 1st Kitchen Supervisor (Sous Chef)<br>
+Peggy Porschen Cakes - London<br>
 May 2016 - October 2017<br>
 • Supervising and teaching team colleagues <br>
-• Acting as a Chef Tutor for the Academy upon request<br>
-• Responsible for the health and safety documentation, awarding the business a Food Hygiene Rating of 5<br>
+• Chef Tutor for the Academy upon request<br>
+• Health and safety documentation, awarding the business a Food Hygiene Rating of 5<br>
 • Use of Deputy, Excel and Google Docs as main technologies
 
-#### Chef de Pâtisserie
-East Hotel - Hamburg - Germany
+### Chef de Pâtisserie<br>
+East Hotel - Hamburg - Germany<br>
 August 2014 - January 2016<br>  
 • Supervising and training team colleagues<br>
 • Planning of the new production Kitchen<br>
 • Responsible for creating new dessert menus<br>
 
-#### Sous Chef - Catering
-Hacienda de Samotracia - Mexico
+### Sous Chef - Catering<br>
+Hacienda de Samotracia - Mexico<br>
 June 2013 - May 2014 <br>
 • Training and managing the team as well as oordination of banqueting for up to 1200 guests<br>
 • Creation of stock and costs database in Excel
 
-#### Content Manager
-MidiaMind GmbH - Steinfurt - Germany
+### Content Manager<br>
+MidiaMind GmbH - Steinfurt - Germany<br>
 April 2008 - May 2011<br> 
 • Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords<br>
 • Training interns regarding SEO
