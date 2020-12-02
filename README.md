@@ -1,4 +1,4 @@
-## Who am I?
+# Who am I?
 
 Hello everyone! 
 
@@ -8,24 +8,10 @@ Previously, I was the Head of Production for a couple of the most prestigious ba
 
 A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. That is when I realised what really excites me about tech - the possibility to provide useful software to alleviate burden in any form. _Read: improve quality of professional and personal life in a general manner._
 
-## Skills
-
-### Tech Skills
+# Skills
 
 
-
-### Soft Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| BrewKanoo          | A webapp to do x. | React, React Testing library, ReactDOM |
-| MakersBnB                | Airbnb Clone      | Ruby, Rspec, PostgreSQL,               |
-
-
+## Tech Skills
 ## Soft Skills
 
 #### This Skill
@@ -43,7 +29,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Experience
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+# Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| BrewKanoo          | A webapp to do x. | React, React Testing library, ReactDOM |
+| MakersBnB                | Airbnb Clone      | Ruby, Rspec, PostgreSQL,               |
+
+
+
+
+# Experience
 
 #### Head of Production
 Cutter and Squidge - London
@@ -105,7 +103,7 @@ April 2008 - May 2011
 • Training interns regarding SEO
 
 
-## Education
+# Education
 
 #### Makers Academy (August 2020 to November 2020)
 
@@ -124,10 +122,10 @@ April 2008 - May 2011
 - International Businesses
 - Moving from Brazil to Germany to finish my studies. 
 
-#### Languages
+# Languages
 
 I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
 
-## Hobbies
+# Hobbies
 
 Any cool stuff that makes you a super part of a software development team
