@@ -47,9 +47,9 @@ Consider skills relevent to software development. Then consider your best skills
 Cutter and Squidge - London
 January 2020 - May 2020 
 
-• Training of team members
-• Responsible for the general management of the kitchen, health and safety procedures and documentation, costing and budgeting
-• Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products
+• Training of team members<br>
+• General management of the kitchen, health and safety procedures and documentation, costing and budgeting<br>
+• Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products<br>
 • Use of Shopify, Deputy, Simple Order and Excel as main technologies
 
 #### Head Chef / Production Manager
