@@ -8,8 +8,8 @@ Previously, I was Head of Production for a couple of the most prestigious bakeri
 
 A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. That is when I realised what really excites me about tech - the possibility to provide useful software to alleviate burden in any form. _Read: improve quality of professional and personal life in a general manner._
 
-# Skills 🤹
-## Tech Skills 💻 
+# Skills 
+## 💻 Tech Skills 
 ```
 Languages: Javascript, Ruby, SQL, HTML, CSS, Markdown
 Technologies: React, Rails, Sinatra, jQuery, Node.js, Heroku, Travis CI, PostgreSQL, Bootstrap
@@ -18,7 +18,7 @@ Concepts: OOP, TDD/BDD, DDD, Agile/XP, MVC patterns, CRC Diagrams, Pair Programm
 Tools: AWS, VSCode, RubyMine, TablePlus
 ```
 
-## Soft Skills 
+## 🤹 Soft Skills 
 
 #### Team Work and Communication Skills
 
