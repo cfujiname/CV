@@ -9,37 +9,45 @@ Previously, I was the Head of Production for a couple of the most prestigious ba
 A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. That is when I realised what really excites me about tech - the possibility to provide useful software to alleviate burden in any form. _Read: improve quality of professional and personal life in a general manner._
 
 # Skills
+## Tech Skills 
+```
+let cristina = {
+    languages: ["Javascript", "Ruby", "SQL", "HTML", "CSS", "Markdown],
+    technologies: [ "React", "Rails", "Sinatra", "jQuery", "Node", "Heroku", "Travis CI"], 
+    databases: ["PostgreSQL", "AWS"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+};
+```
 
-
-## Tech Skills (tech stack, testing libraries, frontend, backend)
 ## Soft Skills 
 
 #### Team Work and Communication Skills
 
-- Leading teams in most of my jobs, delegating tasks according to skills and giving the team the opportunity to grow professionally
-- Giving and receiving feedback, acting as a collaborator rather than someone at a higher hierarchical level 
+• Leading teams in most of my jobs, delegating tasks according to skills and giving the team the opportunity to grow professionally
+• Giving and receiving feedback, acting as a collaborator rather than someone at a higher hierarchical level 
 
 #### Adaptability
 
-- Having moved to different countries because of my previous job positions, I was able to adapt quickly to new cultures and professional environment
-- My growth mindset and progressive learning attitude helped me adjust and become more resilient to challenges
+• Having moved to different countries because of my previous job positions, I was able to adapt quickly to new cultures and professional environment
+• My growth mindset and progressive learning attitude helped me adjust and become more resilient to challenges
 
 #### Problem-solving
 
-- What to do when I face a big challenge in my life or work? I tend to map the triggers of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.
-- I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare and pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My thinking process would be backwards, seeing what I needed to deliver in which time frame, and structuring the production accordingly
+• What to do when I face a big challenge in my life or work? I tend to map the triggers of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.
+• I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare and pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My thinking process would be backwards, seeing what I needed to deliver in which time frame, and structuring the production accordingly
 
 #### Language fluency
 
-- I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
+• I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
 
 
 # Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [BrewKanoo](https://github.com/cfujiname/brewkanoo "BrewKanoo")          | Final Group Project - helping first timers brew their own beer, based on React as a Single-Page app. Learning a new tools and language. | React, React Testing library, ReactDOM, JavaScript, Bootstrap, PostgreSQL, Heroku, TravisCI, HTML/CSS |
-| [RobotLizard](https://github.com/cfujiname/acebook-robotlizard "RobotLizard")           | Facebook Clone - Group Project to bring Rails into our lives     | Ruby, Rails, Rspec, PostgreSQL, Bootstrap, HTML/CSS, Devise, Heroku, Google Cloud              |
+| [BrewKanoo](https://brewkanoo.herokuapp.com/ "BrewKanoo")          | Final Group Project - helping first timers brew their own beer, based on React as a Single-Page app. Learning a new tools and language. | React, React Testing library, ReactDOM, JavaScript, Bootstrap, PostgreSQL, Heroku, TravisCI, HTML/CSS |
+| [RobotLizard](https://acebook-robotlizard.herokuapp.com/ "RobotLizard")           | Facebook Clone - Group Project to bring Rails into our lives     | Ruby, Rails, Rspec, PostgreSQL, Bootstrap, HTML/CSS, Devise, Heroku, Google Cloud              |
 | [Bank Tech Test](https://github.com/cfujiname/bank-tech-test "Bank Tech Test")          | Individual project aiming to analise coding process | Ruby, Rspec |
 | [MakersBnB](https://github.com/cfujiname/makersbnb "MakersBnB")              | Airbnb Clone - First Group Project aiming to understand how to team work is done in the Dev world, with standups and retros, team principles and code reviews in a daily basis    | Ruby, Rspec, PostgreSQL, Bootstrap, HTML/CSS              |
 
@@ -92,20 +100,20 @@ MidiaMind GmbH - Steinfurt - Germany<br>
 
 #### Makers Academy (August 2020 to November 2020)
 
-- OOP, TDD/BDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, jQuery, React, SQL
-- RSpec, Jasmine, ReactDom, React Testing Library
+• OOP, TDD/BDD, MVC, DDD
+• Agile/XP
+• Ruby, Rails, JavaScript, jQuery, React, SQL
+• RSpec, Jasmine, ReactDom, React Testing Library
 
 #### Le Cordon Bleu London - March 2012 to December 2012
 
-- Diploma de Patisserie
-- Learning classic french pastry from scratch, having no previous knowledge
+• Diploma de Patisserie
+• Learning classic french pastry from scratch, having no previous knowledge
 
 #### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
 
-- International Businesses
-- Moving from Brazil to Germany to finish my studies. 
+• International Businesses
+• Moving from Brazil to Germany to finish my studies. 
 
 # Hobbies
 
