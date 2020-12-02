@@ -122,7 +122,7 @@ April 2008 - May 2011
 - International Businesses
 - Moving from Brazil to Germany to finish my studies. 
 
-# Languages
+# Language fluency
 
 I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
 
