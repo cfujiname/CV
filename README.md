@@ -39,9 +39,9 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [BrewKanoo](https://github.com/cfujiname/brewkanoo "BrewKanoo")          | Final Group Project - helping first timers brew their own beer, based on React as a Single-Page app. Learning a new tools and language. | React, React Testing library, ReactDOM, JavaScript, Bootstrap, PostgreSQL, Heroku, TravisCI, HTML/CSS |
-| Robot Lizard                | Facebook Clone - Group Project to bring Rails into our lives     | Ruby, Rails, Rspec, PostgreSQL, Bootstrap, HTML/CSS, Devise, Heroku, Google Cloud              |
-| Bank Tech Test          | Individual project aiming to analise coding process | Ruby, Rspec |
-| MakersBnB                | Airbnb Clone - First Group Project aiming to understand how to team work is done in the Dev world, with standups and retros, team principles and code reviews in a daily basis    | Ruby, Rspec, PostgreSQL, Bootstrap, HTML/CSS              |
+| [RobotLizard](https://github.com/cfujiname/acebook-robotlizard "RobotLizard")           | Facebook Clone - Group Project to bring Rails into our lives     | Ruby, Rails, Rspec, PostgreSQL, Bootstrap, HTML/CSS, Devise, Heroku, Google Cloud              |
+| [Bank Tech Test](https://github.com/cfujiname/bank-tech-test "Bank Tech Test")          | Individual project aiming to analise coding process | Ruby, Rspec |
+| [MakersBnB](https://github.com/cfujiname/makersbnb "MakersBnB")              | Airbnb Clone - First Group Project aiming to understand how to team work is done in the Dev world, with standups and retros, team principles and code reviews in a daily basis    | Ruby, Rspec, PostgreSQL, Bootstrap, HTML/CSS              |
 
 
 # Experience
