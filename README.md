@@ -38,8 +38,13 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| BrewKanoo          | A webapp to do x. | React, React Testing library, ReactDOM |
-| MakersBnB                | Airbnb Clone      | Ruby, Rspec, PostgreSQL,               |
+| BrewKanoo          | A webapp to help first timers brew their beers - Final Group Project | React, React Testing library, ReactDOM, JavaScript, Bootstrap |
+| Robot Lizard                | Facebook Clone - Group Project      | Ruby, Rspec, PostgreSQL, Bootstrap              |
+| BrewKanoo          | A webapp to help first timers brew their beers - Final Group Project | React, React Testing library, ReactDOM, JavaScript, Bootstrap |
+| MakersBnB                | Airbnb Clone      | Ruby, Rspec, PostgreSQL, Bootstrap              |
+
+
+
 
 
 
