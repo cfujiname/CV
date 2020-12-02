@@ -45,8 +45,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Head of Production
 Cutter and Squidge - London
-January 2020 - May 2020 
-
+January 2020 - May 2020<br>
 • Training of team members<br>
 • General management of the kitchen, health and safety procedures and documentation, costing and budgeting<br>
 • Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products<br>
@@ -54,52 +53,44 @@ January 2020 - May 2020
 
 #### Head Chef / Production Manager
 Rosalind Miller Cakes - London
-October 2018 - September 2019 
-
-• Training team colleagues
-• Planning and supervising the production for events in England and abroad (Qatar, UAE) for up to 1000 guests
-• Chef Tutor for the School for specific classes
-• Key role in the development of new flavours and designs according to budget and optimising processes to diminish costs
+October 2018 - September 2019<br>
+• Training team colleagues, planning and supervising production for events in England and abroad (Qatar, UAE) for up to 1000 guests<br>
+• Chef Tutor for the School for specific classes<br>
+• Key role in the development of new flavours and designs according to budget and optimising processes to diminish costs<br>
 • Use of Shopify, Charlie HR and Excel as main technologies
 
 #### Teaching Pastry Chef / Chef Consultant
 London
-November 2017 - October 2018 
-
-• Teaching Specialist for different schools
-• Pastry Consultant for business start ups, developing recipes and methods for large scale production
-• Use of Numbers, Pages, iCloud as main technologies
+November 2017 - October 2018<br>
+• Teaching Specialist for different schools<br>
+• Pastry Consultant for business start ups, developing recipes and methods for large scale production<br>
+• Use of Numbers, Pages, iCloud as main technologies<br>
 
 #### 1st Kitchen Supervisor (Sous Chef)
 Peggy Porschen Cakes - London
-May 2016 - October 2017  
-
-• Supervising and teaching team colleagues 
-• Acting as a Chef Tutor for the Academy upon request
-• Responsible for the health and safety documentation, awarding the business a Food Hygiene Rating of 5
+May 2016 - October 2017<br>
+• Supervising and teaching team colleagues <br>
+• Acting as a Chef Tutor for the Academy upon request<br>
+• Responsible for the health and safety documentation, awarding the business a Food Hygiene Rating of 5<br>
 • Use of Deputy, Excel and Google Docs as main technologies
-
 
 #### Chef de Pâtisserie
 East Hotel - Hamburg - Germany
-August 2014 - January 2016  
-
-• Supervising and training team colleagues
-• Planning of the new production Kitchen
-• Responsible for creating new dessert menus
+August 2014 - January 2016<br>  
+• Supervising and training team colleagues<br>
+• Planning of the new production Kitchen<br>
+• Responsible for creating new dessert menus<br>
 
 #### Sous Chef - Catering
 Hacienda de Samotracia - Mexico
-June 2013 - May 2014 
-
-• Training and managing the team as well as oordination of banqueting for up to 1200 guests
+June 2013 - May 2014 <br>
+• Training and managing the team as well as oordination of banqueting for up to 1200 guests<br>
 • Creation of stock and costs database in Excel
 
 #### Content Manager
 MidiaMind GmbH - Steinfurt - Germany
-April 2008 - May 2011 
-
-• Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords
+April 2008 - May 2011<br> 
+• Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords<br>
 • Training interns regarding SEO
 
 
