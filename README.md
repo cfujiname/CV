@@ -46,44 +46,44 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 
 # Experience
 
-### Head of Production (January 2020 - May 2020)<br>
+#### Head of Production (January 2020 - May 2020)<br>
 Cutter and Squidge - London<br>
 • Training the team<br>
 • General management of the kitchen, health and safety procedures/documentation, costing and budgeting<br>
 • Key role in optimising processes to diminish costs, minimise waste without compromising the quality of end products<br>
 • Use of Shopify, Deputy, Simple Order and Excel as main technologies
 
-### Head Chef / Production Manager (October 2018 - September 2019)<br>
+#### Head Chef / Production Manager (October 2018 - September 2019)<br>
 Rosalind Miller Cakes - London<br>
 • Training the team, planning and supervising production for events in England and abroad (Qatar, UAE) for up to 1000 guests<br>
 • Chef Tutor for the School for specific classes<br>
 • Key role in the development of new flavours and designs according to budget and optimising processes to diminish costs<br>
 • Use of Shopify, Charlie HR and Excel as main technologies
 
-### Teaching Pastry Chef / Chef Consultant (November 2017 - October 2018)<br>
+#### Teaching Pastry Chef / Chef Consultant (November 2017 - October 2018)<br>
 London<br>
 • Teaching Specialist for different schools<br>
 • Pastry Consultant for business start ups, developing recipes and methods for large scale production<br>
 • Use of Numbers, Pages, iCloud as main technologies<br>
 
-### 1st Kitchen Supervisor / Sous Chef (May 2016 - October 2017)<br>
+#### 1st Kitchen Supervisor / Sous Chef (May 2016 - October 2017)<br>
 Peggy Porschen Cakes - London<br>
 • Supervising and teaching team colleagues and Chef Tutor for the Academy upon request<br>
 • Health and safety documentation, awarding the business a Food Hygiene Rating of 5<br>
 • Use of Deputy, Excel and Google Docs as main technologies
 
-### Chef de Pâtisserie (August 2014 - January 2016)<br>
+#### Chef de Pâtisserie (August 2014 - January 2016)<br>
 East Hotel - Hamburg - Germany<br>
 • Supervising and training team colleagues<br>
 • Planning of the new production Kitchen<br>
 • Responsible for creating new dessert menus<br>
 
-### Sous Chef - Catering (June 2013 - May 2014)<br>
+#### Sous Chef - Catering (June 2013 - May 2014)<br>
 Hacienda de Samotracia - Mexico<br>
 • Training and managing the team as well as oordination of banqueting for up to 1200 guests<br>
 • Creation of stock and costs database in Excel
 
-### Content Manager (April 2008 - May 2011)<br> 
+#### Content Manager (April 2008 - May 2011)<br> 
 MidiaMind GmbH - Steinfurt - Germany<br>
 • Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords<br>
 • Training interns regarding SEO
