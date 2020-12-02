@@ -27,7 +27,7 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 #### Problem-solving
 
 - What to do when I face a big challenge in my life or work? I tend to map the triggers of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.
-- I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare, pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My thinking process would be backwards, seeing what I needed to deliver in which time frame, and structuring the production accordingly
+- I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare and pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My thinking process would be backwards, seeing what I needed to deliver in which time frame, and structuring the production accordingly
 
 #### Language fluency
 
