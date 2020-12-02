@@ -38,9 +38,9 @@ A couple of months ago, I decided to change my career and enroll Makers to becom
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| BrewKanoo          | A webapp to help first timers brew their beers - Final Group Project | React, React Testing library, ReactDOM, JavaScript, Bootstrap |
-| Robot Lizard                | Facebook Clone - Group Project      | Ruby, Rspec, PostgreSQL, Bootstrap              |
-| BrewKanoo          | A webapp to help first timers brew their beers - Final Group Project | React, React Testing library, ReactDOM, JavaScript, Bootstrap |
+| BrewKanoo          | Final Group Project - helping first timers brew their own beer, based on React as a Single-Page app. Learning a new tools and language. | React, React Testing library, ReactDOM, JavaScript, Bootstrap, PostgreSQL, Heroku, TravisCI, HTML/CSS |
+| Robot Lizard                | Facebook Clone - Group Project to bring Rails into our lives     | Ruby, Rails, Rspec, PostgreSQL, Bootstrap, HTML/CSS, Devise, Heroku, Google Cloud              |
+| Bank Tech Test          | Individual project -  | Ruby, Rspec |
 | MakersBnB                | Airbnb Clone      | Ruby, Rspec, PostgreSQL, Bootstrap              |
 
 
