@@ -119,6 +119,6 @@ Music - mostly synth/art/dream/indie pop and indie rock, classical baroque<br>
 Sport - weight lifting and cycling<br>
 Food - food 🤤 Cooking with and for people<br>
 Book - philosophy, anthropology, sociology<br>
-DIY - building anything that can simplify day-to-day life
+DIY - building anything that can to simplify day-to-day life
 
 
