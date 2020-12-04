@@ -97,8 +97,8 @@ MidiaMind GmbH - Steinfurt - Germany<br>
 # Education
 
 #### Makers Academy (August 2020 to November 2020)
-
-• OOP, TDD/BDD, MVC, DDD
+-> Update!!!!
+• OOP, TDD/BDD, MVC, DDD: 
 • Agile/XP
 • Ruby, Rails, JavaScript, jQuery, React, SQL
 • RSpec, Jasmine, ReactDom, React Testing Library
@@ -119,6 +119,6 @@ Music - mostly synth/art/dream/indie pop and indie rock, classical baroque<br>
 Sport - weight lifting and cycling<br>
 Food - food 🤤 Cooking with and for people<br>
 Book - philosophy, anthropology, sociology<br>
-DIY - building anything that can to simplify day-to-day life
+DIY - building anything that can simplify day-to-day life
 
 
