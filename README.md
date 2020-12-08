@@ -1,3 +1,7 @@
+# Cristina Fujiname
+
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies)
+
 # Who am I? 🤔
 
 Hello everyone! 
@@ -97,11 +101,21 @@ MidiaMind GmbH - Steinfurt - Germany<br>
 # Education
 
 #### Makers Academy (August 2020 to November 2020)
--> Update!!!!
-• OOP, TDD/BDD, MVC, DDD: 
+
+• OOP, TDD/BDD, MVC, DDD
+- OOP principles enabled us students to write clean and structured programs 
+- The course focuses on TDD/BDD from the very beginning, where all the challenges need to be tested before implemented
+- MVC and CRC diagrams were tools used to work in solo and group projects
+- For group projects, we used DDD to better understand customer needs and create programs that would react well to changes over time 
+
 • Agile/XP
-• Ruby, Rails, JavaScript, jQuery, React, SQL
+- All concepts used in Pair Programming and Group Projects to promote a good working environment and full understanding of the project 
+
+• Ruby, Rails, JavaScript, jQuery, React, SQL 
+- Most used languages and technologies during the course. Please see [projects](#projects) for more
+
 • RSpec, Jasmine, ReactDom, React Testing Library
+- Testing environments used during the course to sucessfully TDD/BDD
 
 #### Le Cordon Bleu London - March 2012 to December 2012
 
