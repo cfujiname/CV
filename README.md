@@ -26,20 +26,17 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 #### Team Work and Communication Skills
 
-• _Leading_ teams in most of my jobs, _delegating_ tasks according to skills and giving the team the opportunity to grow professionally
-
+• _Leading_ teams in most of my jobs, _delegating_ tasks according to skills and giving the team the opportunity to grow professionally<br>
 • Giving and receiving feedback, acting as a _collaborator_ rather than someone at a higher hierarchical level 
 
 #### Adaptability
 
-• Having moved to different countries because of my previous job positions, I was able to _adapt quickly_ to new cultures and professional environment
-
+• Having moved to different countries because of my previous job positions, I was able to _adapt quickly_ to new cultures and professional environment<br>
 • My _growth mindset_ and _progressive learning_ attitude helped me adjust and become more resilient to challenges
 
 #### Problem-solving
 
-• What to do when I face a _big challenge_ in my life or work? I tend to _map the triggers_ of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.
-
+• What to do when I face a _big challenge_ in my life or work? I tend to _map the triggers_ of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.<br>
 • I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare and pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My _thinking process_ would be going backwards, seeing what I needed to deliver in which time frame, and _structuring_ the production and _sprints_ accordingly.
 
 #### Language fluency
@@ -122,10 +119,10 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 # Hobbies
 
-Music - mostly synth/art/dream/indie pop and indie rock, classical baroque (also played drums, organ and flute to an advanced level)<br>
-Sport - weight lifting and cycling (trained tennis and football for a while as well)<br>
-Food - food 🤤 Cooking with and for people<br>
-Book - philosophy, anthropology, sociology<br>
-DIY - building anything that can simplify day-to-day life
+**Music** - mostly synth/art/dream/indie pop and indie rock, classical baroque (also played drums, organ and flute to an advanced level)<br>
+**Sport** - weight lifting and cycling (trained tennis and football for a while as well)<br>
+**Food** - food 🤤 cooking with and for people<br>
+**Books** - philosophy, anthropology, sociology<br>
+**DIY** - building anything that can simplify day-to-day life
 
 
