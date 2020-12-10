@@ -122,7 +122,7 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 **Sport** - weight lifting and cycling (trained tennis and football for a while)<br>
 **Food** - food 🤤 cooking with and for people<br>
 **Books** - philosophy, anthropology, sociology with Nietzsche, Kafka, Dostoevsky and a pinch of Schopenhauer<br>
-**Art** - sketching, the Barbican, Palais de Tokyo, Gustav Klimt
+**Art** - sketching, the Barbican, Palais de Tokyo, Gustav Klimt<br>
 **DIY** - building anything that can simplify day-to-day life
 
 
