@@ -53,6 +53,34 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 | [Bank Tech Test](https://github.com/cfujiname/bank-tech-test "Bank Tech Test")          | Individual project aiming to analise coding process | Ruby, Rspec |
 | [MakersBnB](https://github.com/cfujiname/makersbnb "MakersBnB")              | Airbnb Clone - First Group Project aiming to understand how to team work is done in the Dev world, with standups and retros, team principles and code reviews in a daily basis    | Ruby, Rspec, PostgreSQL, Bootstrap, HTML/CSS              |
 
+# Education
+
+#### Makers Academy (August 2020 to November 2020)
+
+• OOP, TDD/BDD, MVC, DDD
+- OOP principles enabled us students to write clean and structured programs 
+- The course focuses on TDD/BDD from the very beginning, where all the challenges need to be tested before implemented
+- MVC and CRC diagrams were tools used to work in solo and group projects
+- For group projects, we used DDD to better understand customer needs and create programs that would react well to changes over time 
+
+• Agile/XP
+- All concepts used in Pair Programming and Group Projects to promote a good working environment and full understanding of the project 
+
+• Ruby, Rails, JavaScript, jQuery, React, SQL 
+- Most used languages and technologies during the course. Please see [projects](#projects) for more
+
+• RSpec, Jasmine, ReactDom, React Testing Library
+- Testing environments used during the course to sucessfully TDD/BDD
+
+#### Le Cordon Bleu London - March 2012 to December 2012
+
+• Diploma de Patisserie
+• Learning classic french pastry from scratch, having no previous knowledge
+
+#### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
+
+• International Businesses
+• Moving from Brazil to Germany to finish my studies. 
 
 # Experience
 
@@ -97,35 +125,6 @@ Hacienda de Samotracia - Mexico<br>
 MidiaMind GmbH - Steinfurt - Germany<br>
 • Managing the websites from different companies using SEO-Strategies, Google Analytics, Adwords<br>
 • Training interns regarding SEO
-
-# Education
-
-#### Makers Academy (August 2020 to November 2020)
-
-• OOP, TDD/BDD, MVC, DDD
-- OOP principles enabled us students to write clean and structured programs 
-- The course focuses on TDD/BDD from the very beginning, where all the challenges need to be tested before implemented
-- MVC and CRC diagrams were tools used to work in solo and group projects
-- For group projects, we used DDD to better understand customer needs and create programs that would react well to changes over time 
-
-• Agile/XP
-- All concepts used in Pair Programming and Group Projects to promote a good working environment and full understanding of the project 
-
-• Ruby, Rails, JavaScript, jQuery, React, SQL 
-- Most used languages and technologies during the course. Please see [projects](#projects) for more
-
-• RSpec, Jasmine, ReactDom, React Testing Library
-- Testing environments used during the course to sucessfully TDD/BDD
-
-#### Le Cordon Bleu London - March 2012 to December 2012
-
-• Diploma de Patisserie
-• Learning classic french pastry from scratch, having no previous knowledge
-
-#### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
-
-• International Businesses
-• Moving from Brazil to Germany to finish my studies. 
 
 # Hobbies
 
