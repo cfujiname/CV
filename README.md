@@ -43,7 +43,6 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 • I speak fluently English, Portuguese, Spanish and German. French and Japanese need to be refreshed, but I used to be fluent as well!
 
-
 # Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -115,14 +114,15 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 #### Content Manager (April 2008 - May 2011) | MidiaMind GmbH - Steinfurt - Germany<br> 
 • **Managing the websites** from different companies using **SEO-Strategies, Google Analytics, Adwords**<br>
-• Training interns regarding SEO
+• Training interns regarding SEO strategies
 
 # Hobbies
 
 **Music** - mostly synth/art/dream/indie pop and indie rock, classical baroque (also played drums, organ and flute to an advanced level)<br>
-**Sport** - weight lifting and cycling (trained tennis and football for a while as well)<br>
+**Sport** - weight lifting and cycling (trained tennis and football for a while)<br>
 **Food** - food 🤤 cooking with and for people<br>
-**Books** - philosophy, anthropology, sociology<br>
+**Books** - philosophy, anthropology, sociology with Nietzsche, Kafka, Dostoevsky and a pinch of Schopenhauer<br>
+**Art** - sketching, the Barbican, Palais de Tokyo, Gustav Klimt
 **DIY** - building anything that can simplify day-to-day life
 
 
