@@ -10,7 +10,7 @@ My name is Cristina - an enthusiastic, determined and proactive **Full Stack Dev
 
 Previously, I was Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized teams and managing the supply-chain system to deliver products according to increasing demand in quantities and quality - including Royal Weddings in the Middle East.
 
-A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. That is when I realised what really excites me about tech - the possibility to provide _useful software_ to alleviate burden in any form. _Read: improve quality of professional and personal life in a general manner._
+A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. That is when I realised what really excites me about tech - the possibility to provide _useful software_ to alleviate burden in any form. Read: improve quality of professional and personal life in a general manner.
 
 # Skills 
 ## 💻 Tech Skills 
@@ -58,7 +58,7 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 # Education
 
-#### Makers Academy (August 2020 to November 2020)
+### Makers Academy (August 2020 to November 2020)
 
 • **OOP, TDD/BDD, MVC, DDD**
 - **OOP** principles enabled us students to write clean and structured programs 
@@ -75,15 +75,13 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 • **RSpec, Jasmine, ReactDom, React Testing Library**
 - Testing environments used during the course to sucessfully TDD/BDD
 
-#### Le Cordon Bleu London - March 2012 to December 2012
+### Le Cordon Bleu London - March 2012 to December 2012
 
-• Diploma de Patisserie
-• Learning classic french pastry from scratch, having no previous knowledge
+• Diploma de Patisserie completed with awards: learning classic french pastry from scratch, having no previous knowledge
 
-#### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
+### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
 
-• International Businesses
-• Moving from Brazil to Germany to finish my studies. 
+• International Businesses: moving from Brazil to Germany to finish my studies
 
 # Experience
 
