@@ -8,7 +8,7 @@ Hello everyone!
 
 My name is Cristina - an enthusiastic, determined and proactive **Full Stack Developer** looking for a _Junior Software Developer_ position. 
 
-Previously, I was Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized teams and managing the supply-chain system to deliver products according to increasing demand in quantities and quality - including Royal Weddings in the Middle East.
+Previously, I was Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized teams and managing the supply-chain system to deliver products according to increasing demand in quantities and quality. Whilst structuring processes, I was able to further develop my problem-solving skills and adapt to the constant changes in the sector.  
 
 A couple of months ago, I decided to change my career and enroll Makers to become a Software Dev, as I discovered my passion for coding while building a simple app in Swift. That is when I realised what really excites me about tech - the possibility to provide _useful software_ to alleviate burden in any form. Read: improve quality of professional and personal life in a general manner.
 
@@ -34,7 +34,7 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 • Having moved to different countries because of my previous job positions, I was able to _adapt quickly_ to new cultures and professional environment<br>
 • My _growth mindset_ and _progressive learning_ attitude helped me adjust and become more resilient to challenges
 
-#### Problem-solving
+#### Problem-solving with time management 
 
 • What to do when I face a _big challenge_ in my life or work? I tend to _map the triggers_ of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.<br>
 • I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare and pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My _thinking process_ would be going backwards, seeing what I needed to deliver in which time frame, and _structuring_ the production and _sprints_ accordingly.
@@ -75,7 +75,7 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 • Diploma de Patisserie completed with awards: learning classic french pastry from scratch, having no previous knowledge
 
-### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2007
+### FAE Business School (Brazil) / FH Muenster (Germany) - 2001 to 2006
 
 • International Businesses: moving from Brazil to Germany to finish my studies
 
