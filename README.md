@@ -36,7 +36,7 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 
 #### Problem-solving with time management 
 
-• What to do when I face a _big challenge_ in my life or work? I tend to _map the triggers_ of the challenge and analyse each single aspect that will make that challenge not be a challenge anymore.<br>
+• What to do when I face a _big challenge_ in my life or work? I tend to _map the triggers_ of the challenge and analyse each single aspect that will make that challenge approacheable and easier to handle.<br>
 • I.e.: while planning a Royal Wedding for 1000 guests (held in Qatar), I managed a team of 4 people to prepare and pack 1 tonne of goods to be flewn to Qatar in 3 weeks, and having 5 remaining days in loco to finish the products. My _thinking process_ would be going backwards, seeing what I needed to deliver in which time frame, and _structuring_ the production and _sprints_ accordingly.
 
 #### Language fluency
