@@ -112,7 +112,7 @@ Tools: AWS, VSCode, RubyMine, TablePlus
 • **Training and managing** the team as well as oordination of banqueting for up to 1200 guests<br>
 • Creation of stock and costs **database** in Excel
 
-#### Content Manager (April 2008 - May 2011) | MidiaMind GmbH - Steinfurt - Germany<br> 
+#### Content Manager (April 2007 - May 2011) | MidiaMind GmbH - Steinfurt - Germany<br> 
 • **Managing the websites** from different companies using **SEO-Strategies, Google Analytics, Adwords**<br>
 • Training interns regarding SEO strategies
 
