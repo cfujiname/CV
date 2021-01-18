@@ -6,7 +6,7 @@
 
 Hello everyone! 
 
-My name is Cristina - an enthusiastic, determined and proactive **Full Stack Developer** looking for a _Junior Software Developer_ position. 
+My name is Cristina - an enthusiastic, determined and proactive **Full Stack Developer**. 
 
 Previously, I was Head of Production for a couple of the most prestigious bakeries and cake companies across London, leading mid-sized teams and managing the supply-chain system to deliver products according to increasing demand in quantities and quality. Whilst structuring processes, I was able to further develop my problem-solving skills and adapt to the constant changes in the sector.  
 
